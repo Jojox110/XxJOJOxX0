@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XxJOJOxX0
 - 👀 I’m interested in Game Developpement
-- 🌱 I’m currently learning Unity C# and Python. Planning on learning sql and possibly another language in the next months
+- 🌱 I’m currently working on an indie game using Unity 
 
 <!---
 XxJOJOxX0/XxJOJOxX0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
